@@ -1,0 +1,14 @@
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/auth/AuthController.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/ai/AiController.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/security/JwtService.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/CodeSimilarityApplication.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/config/CorsConfig.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/security/JwtAuthFilter.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/compile/CompileService.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/similarity/SimilarityService.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/auth/User.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/similarity/SimilarityController.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/ai/AiService.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/auth/UserRepository.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/security/SecurityConfig.java
+/Users/harsha/Downloads/APC3/backend/src/main/java/com/example/codesimilarity/compile/CompileController.java

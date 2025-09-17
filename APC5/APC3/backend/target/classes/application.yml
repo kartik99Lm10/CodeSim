@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://officialharsharora2812_db_user:Harsh2812@cluster0.t9wcc70.mongodb.net/codesimilarity?retryWrites=true&w=majority&appName=Cluster0
+
+app:
+  jwt:
+    secret: "my_secret_is_secret_how_will_you_guess"
+    expirationMs: 86400000
+
+gemini:
+  apiKey: "AIzaSyCbdpYmvo5_mztjWJmIYHGAdVOGqNZrJkQ"
+
