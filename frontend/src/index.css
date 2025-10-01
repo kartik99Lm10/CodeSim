@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  @apply bg-slate-50 text-slate-800 dark:bg-slate-900 dark:text-slate-100;
+}
+
+.card { @apply bg-white/80 dark:bg-slate-800/70 backdrop-blur border border-slate-200/60 dark:border-slate-700/60 rounded-2xl shadow-lg p-4; }
+
+.btn { @apply inline-flex items-center justify-center rounded-lg px-4 py-2 font-medium transition shadow-sm active:scale-[.98]; }
+
+.btn-primary { @apply bg-gradient-to-tr from-indigo-600 to-fuchsia-600 text-white hover:from-indigo-700 hover:to-fuchsia-700; }
+.btn-ghost { @apply border border-slate-300/60 dark:border-slate-700/60 hover:bg-slate-100/60 dark:hover:bg-slate-800/60; }
+
+.input { @apply w-full rounded-xl border border-slate-300/60 dark:border-slate-700/60 bg-white/70 dark:bg-slate-800/70 backdrop-blur px-3 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500; }
+
+.container { @apply max-w-6xl mx-auto px-4; }
+
+.brand-gradient { @apply bg-gradient-to-tr from-indigo-600 via-fuchsia-600 to-cyan-500 bg-clip-text text-transparent; }
+
+
+
